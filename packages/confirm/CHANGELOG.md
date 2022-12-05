@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.0]
+
 ## [4.2.0]
 ### Added
 - Add `endowment:rpc` permission ([#105](https://github.com/MetaMask/test-snaps/pull/105))
@@ -137,32 +139,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed outDir of typescript to `build`
 - The beginning of time
 
-[Unreleased]: https://github.com/MetaMask/test-snaps/compare/v4.2.0...HEAD
-[4.2.0]: https://github.com/MetaMask/test-snaps/compare/v4.1.2...v4.2.0
-[4.1.2]: https://github.com/MetaMask/test-snaps/compare/v4.1.1...v4.1.2
-[4.1.1]: https://github.com/MetaMask/test-snaps/compare/v4.1.0...v4.1.1
-[4.1.0]: https://github.com/MetaMask/test-snaps/compare/v4.0.2...v4.1.0
-[4.0.2]: https://github.com/MetaMask/test-snaps/compare/v4.0.1...v4.0.2
-[4.0.1]: https://github.com/MetaMask/test-snaps/compare/v4.0.0...v4.0.1
-[4.0.0]: https://github.com/MetaMask/test-snaps/compare/v3.2.0...v4.0.0
-[3.2.0]: https://github.com/MetaMask/test-snaps/compare/v3.1.0...v3.2.0
-[3.1.0]: https://github.com/MetaMask/test-snaps/compare/v3.0.2...v3.1.0
-[3.0.2]: https://github.com/MetaMask/test-snaps/compare/v3.0.1...v3.0.2
-[3.0.1]: https://github.com/MetaMask/test-snaps/compare/v3.0.0...v3.0.1
-[3.0.0]: https://github.com/MetaMask/test-snaps/compare/v2.0.0...v3.0.0
-[2.0.0]: https://github.com/MetaMask/test-snaps/compare/v1.0.0...v2.0.0
-[1.0.0]: https://github.com/MetaMask/test-snaps/compare/v0.4.0...v1.0.0
-[0.4.0]: https://github.com/MetaMask/test-snaps/compare/v0.3.0...v0.4.0
-[0.3.0]: https://github.com/MetaMask/test-snaps/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/MetaMask/test-snaps/compare/v0.1.3...v0.2.0
-[0.1.3]: https://github.com/MetaMask/test-snaps/compare/v0.1.2...v0.1.3
-[0.1.2]: https://github.com/MetaMask/test-snaps/compare/v0.1.1...v0.1.2
-[0.1.1]: https://github.com/MetaMask/test-snaps/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/MetaMask/test-snaps/compare/v0.0.9...v0.1.0
-[0.0.9]: https://github.com/MetaMask/test-snaps/compare/v0.0.8...v0.0.9
-[0.0.8]: https://github.com/MetaMask/test-snaps/compare/v0.0.7...v0.0.8
-[0.0.7]: https://github.com/MetaMask/test-snaps/compare/v0.0.6...v0.0.7
-[0.0.6]: https://github.com/MetaMask/test-snaps/compare/v0.0.5...v0.0.6
-[0.0.5]: https://github.com/MetaMask/test-snaps/compare/v0.0.4...v0.0.5
-[0.0.4]: https://github.com/MetaMask/test-snaps/compare/v0.0.1...v0.0.4
-[0.0.1]: https://github.com/MetaMask/test-snaps/releases/tag/v0.0.1
+[Unreleased]: https://github.com/Mrtenz/test-snaps/compare/v5.0.0...HEAD
+[5.0.0]: https://github.com/Mrtenz/test-snaps/compare/v4.2.0...v5.0.0
+[4.2.0]: https://github.com/Mrtenz/test-snaps/compare/v4.1.2...v4.2.0
+[4.1.2]: https://github.com/Mrtenz/test-snaps/compare/v4.1.1...v4.1.2
+[4.1.1]: https://github.com/Mrtenz/test-snaps/compare/v4.1.0...v4.1.1
+[4.1.0]: https://github.com/Mrtenz/test-snaps/compare/v4.0.2...v4.1.0
+[4.0.2]: https://github.com/Mrtenz/test-snaps/compare/v4.0.1...v4.0.2
+[4.0.1]: https://github.com/Mrtenz/test-snaps/compare/v4.0.0...v4.0.1
+[4.0.0]: https://github.com/Mrtenz/test-snaps/compare/v3.2.0...v4.0.0
+[3.2.0]: https://github.com/Mrtenz/test-snaps/compare/v3.1.0...v3.2.0
+[3.1.0]: https://github.com/Mrtenz/test-snaps/compare/v3.0.2...v3.1.0
+[3.0.2]: https://github.com/Mrtenz/test-snaps/compare/v3.0.1...v3.0.2
+[3.0.1]: https://github.com/Mrtenz/test-snaps/compare/v3.0.0...v3.0.1
+[3.0.0]: https://github.com/Mrtenz/test-snaps/compare/v2.0.0...v3.0.0
+[2.0.0]: https://github.com/Mrtenz/test-snaps/compare/v1.0.0...v2.0.0
+[1.0.0]: https://github.com/Mrtenz/test-snaps/compare/v0.4.0...v1.0.0
+[0.4.0]: https://github.com/Mrtenz/test-snaps/compare/v0.3.0...v0.4.0
+[0.3.0]: https://github.com/Mrtenz/test-snaps/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/Mrtenz/test-snaps/compare/v0.1.3...v0.2.0
+[0.1.3]: https://github.com/Mrtenz/test-snaps/compare/v0.1.2...v0.1.3
+[0.1.2]: https://github.com/Mrtenz/test-snaps/compare/v0.1.1...v0.1.2
+[0.1.1]: https://github.com/Mrtenz/test-snaps/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/Mrtenz/test-snaps/compare/v0.0.9...v0.1.0
+[0.0.9]: https://github.com/Mrtenz/test-snaps/compare/v0.0.8...v0.0.9
+[0.0.8]: https://github.com/Mrtenz/test-snaps/compare/v0.0.7...v0.0.8
+[0.0.7]: https://github.com/Mrtenz/test-snaps/compare/v0.0.6...v0.0.7
+[0.0.6]: https://github.com/Mrtenz/test-snaps/compare/v0.0.5...v0.0.6
+[0.0.5]: https://github.com/Mrtenz/test-snaps/compare/v0.0.4...v0.0.5
+[0.0.4]: https://github.com/Mrtenz/test-snaps/compare/v0.0.1...v0.0.4
+[0.0.1]: https://github.com/Mrtenz/test-snaps/releases/tag/v0.0.1

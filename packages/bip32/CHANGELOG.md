@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.0]
+
 ## [4.2.0]
 ### Added
 - Add `endowment:rpc` permission ([#105](https://github.com/MetaMask/test-snaps/pull/105))
@@ -55,16 +57,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Add BIP-32 test snap ([#56](https://github.com/MetaMask/test-snaps/pull/56), [#57](https://github.com/MetaMask/test-snaps/pull/57), [#64](https://github.com/MetaMask/test-snaps/pull/64))
 
-[Unreleased]: https://github.com/MetaMask/test-snaps/compare/v4.2.0...HEAD
-[4.2.0]: https://github.com/MetaMask/test-snaps/compare/v4.1.2...v4.2.0
-[4.1.2]: https://github.com/MetaMask/test-snaps/compare/v4.1.1...v4.1.2
-[4.1.1]: https://github.com/MetaMask/test-snaps/compare/v4.1.0...v4.1.1
-[4.1.0]: https://github.com/MetaMask/test-snaps/compare/v4.0.2...v4.1.0
-[4.0.2]: https://github.com/MetaMask/test-snaps/compare/v4.0.1...v4.0.2
-[4.0.1]: https://github.com/MetaMask/test-snaps/compare/v4.0.0...v4.0.1
-[4.0.0]: https://github.com/MetaMask/test-snaps/compare/v3.2.0...v4.0.0
-[3.2.0]: https://github.com/MetaMask/test-snaps/compare/v3.1.0...v3.2.0
-[3.1.0]: https://github.com/MetaMask/test-snaps/compare/v3.0.2...v3.1.0
-[3.0.2]: https://github.com/MetaMask/test-snaps/compare/v3.0.1...v3.0.2
-[3.0.1]: https://github.com/MetaMask/test-snaps/compare/v3.0.0...v3.0.1
-[3.0.0]: https://github.com/MetaMask/test-snaps/releases/tag/v3.0.0
+[Unreleased]: https://github.com/Mrtenz/test-snaps/compare/v5.0.0...HEAD
+[5.0.0]: https://github.com/Mrtenz/test-snaps/compare/v4.2.0...v5.0.0
+[4.2.0]: https://github.com/Mrtenz/test-snaps/compare/v4.1.2...v4.2.0
+[4.1.2]: https://github.com/Mrtenz/test-snaps/compare/v4.1.1...v4.1.2
+[4.1.1]: https://github.com/Mrtenz/test-snaps/compare/v4.1.0...v4.1.1
+[4.1.0]: https://github.com/Mrtenz/test-snaps/compare/v4.0.2...v4.1.0
+[4.0.2]: https://github.com/Mrtenz/test-snaps/compare/v4.0.1...v4.0.2
+[4.0.1]: https://github.com/Mrtenz/test-snaps/compare/v4.0.0...v4.0.1
+[4.0.0]: https://github.com/Mrtenz/test-snaps/compare/v3.2.0...v4.0.0
+[3.2.0]: https://github.com/Mrtenz/test-snaps/compare/v3.1.0...v3.2.0
+[3.1.0]: https://github.com/Mrtenz/test-snaps/compare/v3.0.2...v3.1.0
+[3.0.2]: https://github.com/Mrtenz/test-snaps/compare/v3.0.1...v3.0.2
+[3.0.1]: https://github.com/Mrtenz/test-snaps/compare/v3.0.0...v3.0.1
+[3.0.0]: https://github.com/Mrtenz/test-snaps/releases/tag/v3.0.0
